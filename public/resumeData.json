@@ -1,0 +1,179 @@
+{
+  "main": {
+    "name": "Dorel Saig",
+    "occupation": " B.Sc. Software Engineering Student, Specialize in Mobile Systems Development",
+    "description": " Looking for my First Shot in making the Impossible by ",
+    "employer": "",
+    "jobDescription": "shuffling some data, learning new Tech and pressing some keys until everything is up and running.",
+    "image": "profile_pic.jpg",
+    "bio": "I am an artist in my soul, fighter in my head and social in my heart. hard-successful working both team and self-directed settings. Quick-learner, Fully motivated and ready to EXPLORE",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "DorelS@taz.co.il",
+    "phone": "050 555 1706",
+    "address": {
+      "street": "Israel Zangvil",
+      "city": "Netanya",
+      "state": "Israel",
+      "zip": ""
+    },
+    "website": "https://www.linkedin.com/in/DoReLSaig1",
+    "resumedownload": "https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/DoReLSaig1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dorelsaig",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/dorelsaig",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/dorelsaig",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Afeka College of Engineering in Tel-Aviv",
+        "degree": "B.Sc in Software Engineering",
+        "graduated": "Expected 2023",
+        "description": " Here I took my Bachelors of Software Engineering with a Mobile Systems Specialty. In the course of my studies I've achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. I discovered my passion about mobile and software development "
+      },
+      {
+        "school": "Shay Agnon High School, Netanya",
+        "degree": "High School Matriculation Certificate",
+        "graduated": "2004 - 2010",
+        "description": "While making my way to the Matriculation Certificate I took major in Social Sciences, Computer Sciences and Visual Art"
+      }
+    ],
+    "work": [
+      {
+        "company": "Team 3 - Apple inc.",
+        "title": "Shift Supervisor, Security Officer and Control Room Inspector",
+        "years": "February 2019 - Present",
+        "description": "- Securing Apple's facilities in Israel"
+      },
+      {
+        "company": "EL-AL Israeli Airlines ltd.",
+        "title": "Team Leader, Ground Attendant",
+        "years": "December 2013 - January 2019",
+        "description": "- Providing high-quality service to passengers in compliance with aviation procedures \n- Staff management of 2 – 20 ground attendants \n- Real-time decision making for optimization and scheduling  \n- Working around the clock carrying out several tasks simultaneously. \n- Position required excellent interpersonal communication skills"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Android",
+        "description": "Android is my first mobile profession",
+        "image": "Android.svg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Swift",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "swift.svg"
+      },
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "node.jpg"
+      },
+      {
+        "name": "C",
+        "description": "",
+        "image": "c.svg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hostingmost of my projects becausemost of my projects because platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/tbakerx/react-resume-template"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
