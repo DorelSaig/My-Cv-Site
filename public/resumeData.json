@@ -2,12 +2,12 @@
   "main": {
     "name": "Dorel Saig",
     "occupation": " B.Sc. Software Engineering Student, Specialize in Mobile Systems Development",
-    "description": " Looking for my First Shot in making the Impossible by ",
+    "description": " Looking forward for my First Shot in making the Impossible by ",
     "employer": "",
     "jobDescription": "shuffling some data, learning new Tech and pressing some keys until everything is up and running.",
     "image": "profile_pic.jpg",
-    "bio": "I am an artist in my soul, fighter in my head and social in my heart. hard-successful working both team and self-directed settings. Quick-learner, Fully motivated and ready to EXPLORE",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "bio": "I am an artist at my soul, fighter in my head and social-lover in my heart. hard-successful working both team and self-directed settings. Quick-learner, Fully motivated and ready to EXPLORE",
+    "contactmessage": "Am I what your company looking for? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email.",
     "email": "DorelS@taz.co.il",
     "phone": "050 555 1706",
     "address": {
@@ -17,7 +17,7 @@
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/DoReLSaig1",
-    "resumedownload": "https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "resumedownload": "https://afekacollege-my.sharepoint.com/:b:/g/personal/dorel_sayag_s_afeka_ac_il/EYT29YsfCmBCtvgPmRAlxUMBdEBBE6WRMiZhsLHyUvJk1A?e=5RUp90",
     "social": [
       {
         "name": "facebook",
@@ -42,7 +42,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "I am always ready to learn new technologies, Meanwhile, these are the ones that I have already took over",
     "education": [
       {
         "school": "Afeka College of Engineering in Tel-Aviv",
@@ -75,7 +75,7 @@
       {
         "name": "Java",
         "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
-        "image": "java.jpg"
+        "image": "java.svg"
       },
       {
         "name": "Android",
@@ -83,96 +83,106 @@
         "image": "Android.svg"
       },
       {
-        "name": "React Js",
-        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
-        "image": "react.jpg"
-      },
-      {
         "name": "Swift",
         "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
         "image": "swift.svg"
       },
       {
-        "name": "Node JS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image": "node.jpg"
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.svg"
       },
       {
-        "name": "C",
-        "description": "",
-        "image": "c.svg"
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "node.svg"
       },
       {
         "name": "MongoDB",
         "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
-        "image": "mongo.jpg"
+        "image": "c.svg"
       },
       {
-        "name": "Heroku",
-        "description": "I use Heroku as my hostingmost of my projects becausemost of my projects because platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
-      },
-      {
-        "name": "Heroku",
+        "name": "JavaScript",
         "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
+        "image": "js.svg"
       },
       {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.svg"
       },
       {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
+        "name": "HTML5",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "html.svg"
       },
       {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
+        "name": "MySQL",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mysql.svg"
+      },
+      {
+        "name": "Selenium",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "selenium.svg"
+      },
+      {
+        "name": "Figma",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "figma.svg"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "photoshop.svg"
+      },
+      {
+        "name": "Adobe Lightroom",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "lightroom.svg"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Tournament’s bracket managing system (Java)",
+        "description": "Designed program with the fundamentals of OOP using javafx and MVC design patterns; ",
+        "image": "barcketsfinal.jpg",
+        "url": "https://github.com/DorelSaig/Championship-Program"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Obstacles 2 - Android Mobile Game ",
+        "description": " The game was developed in an Android Studio IDE and includes using of various SDKs, Google Maps API, Location Services, Sensors and Shared-Preference DB.",
+        "image": "obstacles2.jpg",
+        "url": "https://github.com/DorelSaig/Obstacles2"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "https://original-thai-food.herokuapp.com/index.html"
+        "title": "SuperMe - Shared Groceries Lists Android App",
+        "description": "Java based application, the app includes the use of Google Firebase features: Firebase Authenticator, Firestore and Firebase Storage. Also, support of a real time features like sharing lists by phone numbers, sending notifications to friends and adding your own items.",
+        "image": "superme.png",
+        "url": "https://github.com/DorelSaig/SuperMe"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "https://github.com/tbakerx/react-resume-template"
+        "title": "Airport autority & airline managing system (C) ",
+        "description": "System was built in Windows and Linux environments using pointers, dynamic allocation, starctures, data to text file saving etc. ",
+        "image": "airport.jpg",
+        "url": "https://github.com/DorelSaig/AirportAuthC"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Rock Paper Scissors - IOS Mobile Game",
+        "description": " Swift based game, featuring a the classic game of Rock, Paper, Scissors. This was my first time using Swift and Xcode.",
+        "image": "rockpaperscissors.png",
+        "url": "https://github.com/DorelSaig/vsProject"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user": "Alastair Beaumont - Web Developer at AppColony"
+        "text": "I've been to Disneyland, like, 10 times. I'm getting really tired of Disneyland.",
+        "user": " Elon Musk"
       }
     ]
   }

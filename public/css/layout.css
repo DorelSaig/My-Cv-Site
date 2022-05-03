@@ -36,7 +36,7 @@ header {
   min-height: 500px;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
-    url(../images/header-background.jpg) no-repeat top center;
+    url(../images/header-background.jpg) fixed top center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -343,11 +343,18 @@ ul#nav li.current a {
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
+  
 }
 .portfolio-item .item-wrap {
   background: #fff;
   overflow: hidden;
   position: relative;
+  
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 20px;
+  
 
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -358,6 +365,11 @@ ul#nav li.current a {
 .portfolio-item .item-wrap a {
   display: block;
   cursor: pointer;
+  
+}
+
+.portfolio-item .item-wrap p {
+  padding: 6px;
 }
 
 /* overlay */
@@ -408,15 +420,18 @@ ul#nav li.current a {
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;
+  
 }
 .portfolio-item .portfolio-item-meta h5 {
   font: 14px/21px "opensans-bold", sans-serif;
   color: #fff;
+  
 }
 .portfolio-item .portfolio-item-meta p {
   font: 12px/18px "opensans-light", sans-serif;
   color: #c6c7c7;
   margin-bottom: 0;
+  
 }
 
 /* on hover */
@@ -601,7 +616,7 @@ call-to-action .button {
 }
 #testimonials blockquote cite {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   font-style: normal;
   line-height: 18px;
   color: #fff;
@@ -731,7 +746,7 @@ call-to-action .button {
   background: #191919;
   padding-top: 96px;
   padding-bottom: 102px;
-  color: #636363;
+  color: #c2c2c2;
 }
 #contact .section-head {
   margin-bottom: 42px;
@@ -775,6 +790,7 @@ call-to-action .button {
 #contact p.lead {
   font: 18px/36px "opensans-light", sans-serif;
   padding-right: 3%;
+  padding-top: 1.7%;
 }
 #contact .header-col {
   padding-top: 6px;
