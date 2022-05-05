@@ -6,7 +6,7 @@
     "employer": "",
     "jobDescription": "shuffling some data, learning new Tech and pressing some keys until everything is up and running.",
     "image": "profile_pic.jpg",
-    "bio": "I am an artist at my soul, fighter in my head and social-lover in my heart. hard-successful working both team and self-directed settings. Quick-learner, Fully motivated and ready to EXPLORE",
+    "bio": "I am an artist in my soul, a fighter in my head, and a social lover in my heart. hard-successful working in both team and self-directed settings. Quick learner, fully motivated, and ready to EXPLORE",
     "contactmessage": "Am I what your company looking for? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email.",
     "email": "DorelS@taz.co.il",
     "phone": "050 555 1706",
@@ -71,6 +71,20 @@
         "description": "- Providing high-quality service to passengers in compliance with aviation procedures \n- Staff management of 2 – 20 ground attendants \n- Real-time decision making for optimization and scheduling  \n- Working around the clock carrying out several tasks simultaneously. \n- Position required excellent interpersonal communication skills"
       }
     ],
+        "military": [
+      {
+        "company": "8140 Battalion, Artillery Corps (Reserve Duty)",
+        "title": "Combat squad commander and Company sergeant major",
+        "years": " November 2013 - Present",
+        "description": ""
+      },
+      {
+        "company": "405 Battalion, Artillery Corps, IDF",
+        "title": "Combat squad commander",
+        "years": "November 2010 - November 2013",
+        "description": "Honorably discharged as First Sergeant. Led my teams to multiple achievements of excellence during mandatory and reserve duty"
+      }
+    ],
     "skills": [
       {
         "name": "Java",
@@ -98,7 +112,7 @@
         "image": "node.svg"
       },
       {
-        "name": "MongoDB",
+        "name": "C",
         "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
         "image": "c.svg"
       },
