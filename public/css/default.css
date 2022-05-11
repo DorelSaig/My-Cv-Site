@@ -452,9 +452,12 @@ img {
    max-width: 100%;
    height: auto;
 }
+
 img.skill{
   max-width: 65%;
+  margin-top:2.5em;
 }
+
 img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
 
@@ -752,6 +755,8 @@ properly.
    .row .offset-9    { margin-left: 0%; }
    .row .offset-10   { margin-left: 0%; }
    .row .offset-11   { margin-left: 0%; }
+
+
 }
 
 /* mobile narrow
@@ -759,6 +764,7 @@ properly.
 @media only screen and (max-width: 460px) {
 
    .row { width: auto; }
+   
 
 }
 

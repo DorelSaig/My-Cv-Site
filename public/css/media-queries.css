@@ -235,7 +235,8 @@
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }
    #resume h3, #resume .info { text-align: center; }
-   #resume .skillm {width: 30%;}
+   #resume .skillm {width: 50%;}
+   #resume .s-bgrid-quarters { columns: 2; }
    .bars { width: 100%; }
 
 
