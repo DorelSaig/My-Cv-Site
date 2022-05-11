@@ -44,7 +44,7 @@ class Resume extends Component {
         var projectImage = "images/tech/" + skills.image;
         return (
           <div key={skills.name} className="columns feature-item">
-            <img className="skill" alt={skills.name} src={projectImage} />
+            <img className="skill skillm" alt={skills.name} src={projectImage} />
             <h5>{skills.name}</h5>
           </div>
         );
