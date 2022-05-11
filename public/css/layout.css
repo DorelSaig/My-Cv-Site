@@ -36,7 +36,7 @@ header {
   min-height: 500px;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
-    url(../images/header-background2.jpg) no-repeat top center;
+    url(https://user-images.githubusercontent.com/62397127/167795708-463d0eae-2122-4a8c-b6fc-df0ab57ed1e6.jpg) no-repeat top center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -561,7 +561,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: #1f1f1f url(../images/678532.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
