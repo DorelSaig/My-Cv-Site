@@ -21,7 +21,7 @@ class Testimonials extends Component {
             <div className="two columns header-col">
               {/* <h1><span>Client Testimonials</span></h1> */}
               <h1>
-                <span>Moto</span>
+                <span>Testimonials</span>
               </h1>
             </div>
 
