@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cvSite/static/css/main.76dc6e8c.css",
+    "main.js": "/cvSite/static/js/main.c5cf89af.js",
+    "index.html": "/cvSite/index.html",
+    "main.76dc6e8c.css.map": "/cvSite/static/css/main.76dc6e8c.css.map",
+    "main.c5cf89af.js.map": "/cvSite/static/js/main.c5cf89af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76dc6e8c.css",
+    "static/js/main.c5cf89af.js"
+  ]
+}
