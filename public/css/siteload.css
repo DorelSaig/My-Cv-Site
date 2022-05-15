@@ -12,7 +12,7 @@
 }
 
 .siteLoading.available{
-  opacity:0;
+  opacity:100;
 }
 
 .siteLoading-frame {
@@ -40,7 +40,7 @@
 
 }
 
-.loader {
+.siteLoading .loader {
   width: 120px;
   height: 90px;
   display: flex;
