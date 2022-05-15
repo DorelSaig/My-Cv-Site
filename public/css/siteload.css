@@ -40,7 +40,7 @@
 
 }
 
-.siteLoading .loader {
+.loader {
   width: 120px;
   height: 90px;
   display: flex;
@@ -49,17 +49,15 @@
   justify-content: space-between;
   align-self: center;
   margin-top: 10px;
-  
 }
 
 .loader span{
-  font: 22px "opensans-bold", sans-serif;
   text-transform: uppercase;
   margin:auto;
   font-weight: bold;
 }
 
-.ball {
+.loader .ball {
   width: 25px;
   height: 25px;
   border-radius: 50%;
@@ -73,6 +71,7 @@
 .ball:nth-child(3){
   animation-delay: .32s;
 }
+
 @keyframes bounce {
   from{
     transform: scaleX(1.25);
