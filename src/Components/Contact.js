@@ -25,12 +25,18 @@ class Contact extends Component {
           </div>
 
           <div className="ten columns">
-            
-            <p className="lead"><span>{message}</span></p>
+            <p className="lead">
+              <span>{message}</span>
+            </p>
             <br />
+            {/* <button className="glow-on-hover from-right">
+               <a href="mailto:dorels@taz.co.il">
+                DorelS@taz.co.il
+                </a>
+            </button> */}
           </div>
         </div>
-
+       
         <div className="row">
           <div className="eight columns"></div>
 
