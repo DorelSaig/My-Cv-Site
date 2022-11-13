@@ -59,19 +59,19 @@
     ],
     "work": [
       {
-        "company": "Team 3 - Apple inc.",
-        "title": "Shift Supervisor, Security Officer and Control Room Inspector",
-        "years": "February 2019 - Present",
-        "description": "- Securing Apple's facilities in Israel"
-      },
-      {
         "company": "EL-AL Israeli Airlines ltd.",
         "title": "Team Leader, Ground Attendant",
-        "years": "December 2013 - January 2019",
+        "years": "December 2013 - January 2019, September 2022 - Present",
         "description": "- Providing high-quality service to passengers in compliance with aviation procedures \n- Staff management of 2 – 20 ground attendants \n- Real-time decision making for optimization and scheduling  \n- Working around the clock carrying out several tasks simultaneously. \n- Position required excellent interpersonal communication skills"
+      },
+      {
+        "company": "Team 3 - Apple inc.",
+        "title": "Shift Supervisor, Security Officer and Control Room Inspector",
+        "years": "February 2019 - September 2022",
+        "description": "- Securing Apple's facilities in Israel"
       }
     ],
-        "military": [
+    "military": [
       {
         "company": "8140 Battalion, Artillery Corps (Reserve Duty)",
         "title": "Combat squad commander and Company sergeant major",
